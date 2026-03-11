@@ -1,0 +1,10 @@
+D:\учеба\vs project\TestingApp\TestingApp\bin\Debug\TestingApp.exe.config
+D:\учеба\vs project\TestingApp\TestingApp\bin\Debug\TestingApp.exe
+D:\учеба\vs project\TestingApp\TestingApp\bin\Debug\TestingApp.pdb
+D:\учеба\vs project\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.AssemblyReference.cache
+D:\учеба\vs project\TestingApp\TestingApp\obj\Debug\TestingApp.Properties.Resources.resources
+D:\учеба\vs project\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.GenerateResource.cache
+D:\учеба\vs project\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\TestingApp\TestingApp\obj\Debug\TestingApp.exe
+D:\учеба\vs project\TestingApp\TestingApp\obj\Debug\TestingApp.pdb
+D:\учеба\vs project\TestingApp\TestingApp\obj\Debug\TestingApp.FormQuestions.resources
