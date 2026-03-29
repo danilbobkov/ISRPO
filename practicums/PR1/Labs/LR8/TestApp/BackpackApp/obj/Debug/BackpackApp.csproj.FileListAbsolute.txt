@@ -1,0 +1,10 @@
+D:\учеба\vs project\BackpackApp\BackpackApp\bin\Debug\BackpackApp.exe.config
+D:\учеба\vs project\BackpackApp\BackpackApp\bin\Debug\BackpackApp.exe
+D:\учеба\vs project\BackpackApp\BackpackApp\bin\Debug\BackpackApp.pdb
+D:\учеба\vs project\BackpackApp\BackpackApp\obj\Debug\BackpackApp.csproj.AssemblyReference.cache
+D:\учеба\vs project\BackpackApp\BackpackApp\obj\Debug\BackpackApp.Properties.Resources.resources
+D:\учеба\vs project\BackpackApp\BackpackApp\obj\Debug\BackpackApp.csproj.GenerateResource.cache
+D:\учеба\vs project\BackpackApp\BackpackApp\obj\Debug\BackpackApp.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\BackpackApp\BackpackApp\obj\Debug\BackpackApp.exe
+D:\учеба\vs project\BackpackApp\BackpackApp\obj\Debug\BackpackApp.pdb
+D:\учеба\vs project\BackpackApp\BackpackApp\obj\Debug\BackpackApp.Form1.resources
