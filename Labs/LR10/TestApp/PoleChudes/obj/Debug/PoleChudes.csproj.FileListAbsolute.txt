@@ -1,0 +1,9 @@
+D:\учеба\vs project\PoleChudes\PoleChudes\bin\Debug\PoleChudes.exe.config
+D:\учеба\vs project\PoleChudes\PoleChudes\bin\Debug\PoleChudes.exe
+D:\учеба\vs project\PoleChudes\PoleChudes\bin\Debug\PoleChudes.pdb
+D:\учеба\vs project\PoleChudes\PoleChudes\obj\Debug\PoleChudes.csproj.AssemblyReference.cache
+D:\учеба\vs project\PoleChudes\PoleChudes\obj\Debug\PoleChudes.Properties.Resources.resources
+D:\учеба\vs project\PoleChudes\PoleChudes\obj\Debug\PoleChudes.csproj.GenerateResource.cache
+D:\учеба\vs project\PoleChudes\PoleChudes\obj\Debug\PoleChudes.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\PoleChudes\PoleChudes\obj\Debug\PoleChudes.exe
+D:\учеба\vs project\PoleChudes\PoleChudes\obj\Debug\PoleChudes.pdb
