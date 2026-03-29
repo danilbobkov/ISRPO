@@ -1,0 +1,9 @@
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\obj\Debug\FilesApp.csproj.AssemblyReference.cache
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\obj\Debug\SimbolsCoun.Properties.Resources.resources
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\obj\Debug\FilesApp.csproj.GenerateResource.cache
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\obj\Debug\FilesApp.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\bin\Debug\SimbolsCoun.exe.config
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\bin\Debug\SimbolsCoun.exe
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\bin\Debug\SimbolsCoun.pdb
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\obj\Debug\SimbolsCoun.exe
+D:\учеба\vs project\SimbolsCoun\SimbolsCoun\obj\Debug\SimbolsCoun.pdb
