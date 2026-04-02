@@ -1,0 +1,9 @@
+D:\учеба\vs project\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe.config
+D:\учеба\vs project\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.exe
+D:\учеба\vs project\DailyPlanner\DailyPlanner\bin\Debug\DailyPlanner.pdb
+D:\учеба\vs project\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.AssemblyReference.cache
+D:\учеба\vs project\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.Properties.Resources.resources
+D:\учеба\vs project\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.GenerateResource.cache
+D:\учеба\vs project\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.exe
+D:\учеба\vs project\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.pdb
